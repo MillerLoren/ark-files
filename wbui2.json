@@ -1,0 +1,44 @@
+{
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://i.imgur.com/KJur7dQ.png",
+          "DisableIconText": false,
+          "IconPosition": 3,
+          "IconTextColor": 0,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 2
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 2,
+            "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+            "title1": "<RichColor Color=\"0,1,0,1\">Welcome to SlangNTame!</>",
+            "title2": "<RichColor Color=\"1,0,0,1\">Rules</>",
+            "text1": "Welcome to our server. We have a long record of running clusters and are excited to bring them to ASA.\nWe hope you enjoy the server and if you need anything don't hesitate to ask.",
+            "text2": "<TextStyle.Red>Discord & Nicknames</>\nEveryone must join the discord!\nNames and Tribe names must be consistent.\nNO “Anonymous” names. I.e. 123, Human, Bob.\n<TextStyle.Red>No Excessive/Toxic Behavior & No Harassment</n>No racism or sexually explicit content.\nNo base wiping(where possible).\n<TextStyle.Red>No Cheating/Exploiting</n>\n<TextStyle.Red>No Spamming Chat/Structures</>",
+            "imageurl": "https://i.imgur.com/8PzLQq4.png"
+          }
+        }
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Link to discord",
+            "url": "https://discord.com/invite/djTtsrdEtb"
+          }
+        },
+        {
+          "link2": {
+            "text": "Ark Code of Conduct",
+            "url": "https://survivetheark.com/index.php?/code-of-conduct/"
+          }
+        }
+      ]
+    }
+  }
+  
