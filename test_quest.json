@@ -3,7 +3,7 @@
     "ui_title": "Server Quests",
     "quests": [
         {
-          "quest_name": "Art of Hunting",
+          "quest_name": "Art of Hunting Snails",
           "quest_description": "Learn the ways of the hunter by killing 50 dinos with a bow.",
           "quest_kill": {
             "weapons": [
@@ -13,7 +13,7 @@
               "Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow'"
             ],
             "target": [
-              "dinos"
+                "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'"
             ],
             "amount": 50,
             "reward": {
