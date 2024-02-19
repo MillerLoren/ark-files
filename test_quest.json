@@ -3,8 +3,8 @@
     "ui_title": "Server Quests",
     "quests": [
         {
-          "quest_name": "I hate snails",
-          "quest_description": "Stupid snail leaving slime everywhere.",
+          "quest_name": "I Hate Snails",
+          "quest_description": "Stupid snails leaving slime everywhere.",
           "quest_kill": {
             "weapons": [
               "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow'",
