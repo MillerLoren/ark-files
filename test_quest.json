@@ -3,8 +3,8 @@
     "ui_title": "Server Quests",
     "quests": [
         {
-          "quest_name": "Art of Hunting Snails",
-          "quest_description": "Learn the ways of the hunter by killing 50 dinos with a bow.",
+          "quest_name": "I hate snails",
+          "quest_description": "Stupid snail leaving slime everywhere.",
           "quest_kill": {
             "weapons": [
               "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow'",
@@ -15,7 +15,7 @@
             "target": [
                 "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'"
             ],
-            "amount": 50,
+            "amount": 5,
             "reward": {
               "command": "admincheat GFI WeaponMetalHatchet 1 0 0"
             }
@@ -30,8 +30,8 @@
           "quest_hatch": false
         },
         {
-          "quest_name": "Art of Hunting",
-          "quest_description": "Learn the ways of the hunter by killing 50 dinos with a bow.",
+          "quest_name": "The Most Dangerous Game",
+          "quest_description": "Hunt people...",
           "quest_kill": {
             "weapons": [
               "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow'",
@@ -40,9 +40,9 @@
               "Blueprint'/Game/Genesis2/Weapons/TekBow/PrimalItem_WeaponTekBow.PrimalItem_WeaponTekBow'"
             ],
             "target": [
-              "dinos"
+              "players"
             ],
-            "amount": 50,
+            "amount": 10,
             "reward": {
               "command": "admincheat GFI WeaponMetalHatchet 1 0 0"
             }
