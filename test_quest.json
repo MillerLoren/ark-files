@@ -3,7 +3,7 @@
     "ui_title": "Server Quests",
     "quests": [
         {
-          "quest_id": "aslkjdkajsbh",
+          "quest_id": 15616513,
           "quest_active": true,
           "quest_name": "I Hate Snails",
           "quest_description": "Stupid snails leaving slime everywhere.",
