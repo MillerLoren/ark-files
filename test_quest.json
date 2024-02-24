@@ -4,7 +4,7 @@
     "quests": [
         {
           "quest_id": "aslkjdkajsbh",
-          "quest_active": "true",
+          "quest_active": true,
           "quest_name": "I Hate Snails",
           "quest_description": "Stupid snails leaving slime everywhere.",
           "quest_type": "kill",
